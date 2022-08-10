@@ -1,2 +1,2 @@
-http://prater.launchpad.ethereum.org/* https://goerli.launchpad.ethereum.org
-https://prater.launchpad.ethereum.org/* https://goerli.launchpad.ethereum.org
+/ https://goerli.launchpad.ethereum.org 301!
+/* https://goerli.launchpad.ethereum.org 301!
